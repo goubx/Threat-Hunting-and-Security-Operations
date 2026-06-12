@@ -20,7 +20,7 @@ Every hunt follows the same seven-step structure so the work stays consistent an
 
 | # | Scenario | Tactic | MITRE | Status |
 |---|----------|--------|-------|--------|
-| 01 | Brute Force Login Detection | Credential Access | T1110 | Complete |
+| 01 | [Brute Force Login Detection](https://github.com/goubx/hunting-exposed-vm-bruteforce) | Credential Access | T1110 | Complete |
 
 ## Repo Structure
 
