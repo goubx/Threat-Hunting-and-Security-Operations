@@ -22,6 +22,7 @@ Every hunt follows the same seven-step structure so the work stays consistent an
 |---|----------|--------|-------|--------|
 | 01 | [Brute Force Login Detection](https://github.com/goubx/hunting-exposed-vm-bruteforce) | Credential Access | T1110 | Complete |
 | 02 | [Sudden Network Slowdown](https://github.com/goubx/hunting-internal-port-scan/tree/main) | Discovery | T1046 | Complete |
+| 03 | [Data Exfiltration](https://github.com/goubx/hunting-data-exfiltration/tree/main) | Collection | T1005 | Complete |
 ## Repo Structure
 
 ```
