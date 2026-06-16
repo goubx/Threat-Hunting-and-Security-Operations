@@ -16,14 +16,19 @@ Every hunt follows the same seven-step structure so the work stays consistent an
 6. **Documentation.** Record what was found and how.
 7. **Improvement.** Note what would have prevented the activity or sharpened the hunt.
 
-## Scenarios
+## Defender for Endpoint(EDR) Scenarios
 
 | # | Scenario | Tactic | MITRE | Status |
 |---|----------|--------|-------|--------|
-| 01 | [Brute Force Login Detection](https://github.com/goubx/hunting-exposed-vm-bruteforce) | Credential Access | T1110 | Complete |
+| 01 | [Exposed VM Login Detection](https://github.com/goubx/hunting-exposed-vm-bruteforce) | Credential Access | T1110 | Complete |
 | 02 | [Sudden Network Slowdown](https://github.com/goubx/hunting-internal-port-scan/tree/main) | Discovery | T1046 | Complete |
 | 03 | [Data Exfiltration](https://github.com/goubx/hunting-data-exfiltration/tree/main) | Collection | T1005 | Complete |
 | 04 | [Zero Day Ransomware](https://github.com/goubx/Hunting-Zero-Day-Ransomware) | Execution | T1059.001 | Complete |
+
+## Incident Response with Microsoft Sentinel
+| # | Scenario | Tactic | MITRE | Status |
+|---|----------|--------|-------|--------|
+| 01 | Brute Force Detection |
 ## Repo Structure
 
 ```
