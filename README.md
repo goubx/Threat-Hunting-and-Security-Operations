@@ -28,7 +28,9 @@ Every hunt follows the same seven-step structure so the work stays consistent an
 ## Incident Response with Microsoft Sentinel
 | # | Scenario | Tactic | MITRE | Status |
 |---|----------|--------|-------|--------|
-| 01 | Brute Force Detection |
+| 01 | [Brute Force Detection Rule](https://github.com/goubx/sentinel-bruteforce-detection-ir/tree/main) | Credential Access | T1110 | Complete |
+
+
 ## Repo Structure
 
 ```
