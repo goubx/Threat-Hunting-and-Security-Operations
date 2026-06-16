@@ -29,6 +29,7 @@ Every hunt follows the same seven-step structure so the work stays consistent an
 | # | Scenario | Tactic | MITRE | Status |
 |---|----------|--------|-------|--------|
 | 01 | [Brute Force Detection Rule](https://github.com/goubx/sentinel-bruteforce-detection-ir/tree/main) | Credential Access | T1110 | Complete |
+| 02 | [PowerShell Web-Request Detection](https://github.com/goubx/sentinel-powershell-webrequest-detection) | ___ | ___| Ongoing |
 
 
 ## Repo Structure
