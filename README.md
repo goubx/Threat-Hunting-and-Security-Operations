@@ -31,7 +31,7 @@ Every hunt follows the same seven-step structure so the work stays consistent an
 | 01 | [Brute Force Detection Rule](https://github.com/goubx/sentinel-bruteforce-detection-ir/tree/main) | Credential Access | T1110 | Complete |
 | 02 | [PowerShell Web-Request Detection](https://github.com/goubx/sentinel-powershell-webrequest-detection) |Execution / Command and Control| T1059.001, T1105 | Complete |
 | 03 | [Impossible Travel Detection](https://github.com/goubx/sentinel-impossible-travel-detection) | Initial Access | T1078 | Complete |
-| 04 | [Excessive Resource Activity Detection](https://github.com/goubx/sentinel-excessive-resource-activity-detection) |   |   | Ongoing |
+| 04 | [Excessive Resource Activity Detection](https://github.com/goubx/sentinel-excessive-resource-activity-detection) |  Impact | T1485  | Ongoing |
 
 
 ## Repo Structure
